@@ -1,1 +1,1 @@
-# critmine.github.com
+# critmine.github.io
